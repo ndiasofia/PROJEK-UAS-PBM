@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/drawable-v24/android.xml" value="0.146" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/drawable-v24/bantuan.xml" value="0.1955" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/drawable-v24/button_login.xml" value="0.1" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/drawable-v24/input_text.xml" value="0.1" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/drawable/avatar.xml" value="0.1" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/drawable/awal1.xml" value="0.1" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/drawable/bgcard.xml" value="0.1" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/drawable/bulatijo.xml" value="0.1275" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/drawable/ic_v1.xml" value="0.1" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/font/antic.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout-land/activity_login.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout-land/medsos.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/activity_login.xml" value="0.2523809523809524" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/activity_main.xml" value="0.128" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/activity_productive.xml" value="0.25" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/activity_registration.xml" value="0.2" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/akun.xml" value="0.1" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/awal1.xml" value="0.2" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/awal2.xml" value="0.1" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/awal3.xml" value="0.2" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/bantuan.xml" value="0.1609375" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/editakun.xml" value="0.1923899102180419" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/header.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/sosmed.xml" value="0.264" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/story.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/tampilan.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/layout/tuliscerita.xml" value="0.2" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/menu/header.xml" value="0.1546875" />
+        <entry key="..\:/Users/HP/KuliahS6/Firebase/app/src/main/res/menu/main_menu.xml" value="0.1546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

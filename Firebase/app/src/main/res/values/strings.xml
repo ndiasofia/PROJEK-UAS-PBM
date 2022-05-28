@@ -1,0 +1,60 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">WONDERWALL</string>
+    <string name="webclientid">372658978067-d90o76ilis57pakbdccofarhhna68cfc.apps.googleusercontent.com</string>
+    <!-- Strings related to login -->
+    <string name="username">Username</string>
+    <string name="password">Kata Sandi</string>
+    <string name="baru">Kata Sandi Baru</string>
+    <string name="password2">Konfirmasi kata Sandi</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="hello2">SALAM</string>
+    <string name="hello3">KENAL!!</string>
+    <string name="hello">HALO!</string>
+    <string name="awal1">Dinding kritik dan saran untuk Informatika</string>
+    <string name="awal2">Dinding QnA seputar Informatika</string>
+    <string name="awal3">Dinding kreasi aneuk Informatika</string>
+    <string name="skip">skip</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="daftardulu">Daftar dulu, yuk!</string>
+    <string name="telusuri">Telusuri</string>
+    <string name="wonderwall">WonderWall</string>
+    <string name="akun">Sudah punya akun?</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="siapa_identitas_samaranmu">Siapa identitas samaranmu?</string>
+    <string name="tulis_identitas_samaranmu">Tulis identitas samaranmu!</string>
+    <string name="image_hello">"image hello"</string>
+    <string name="image_salken">"image hello"</string>
+    <string name="image_kotakAwal">kotak awal"</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="tulis">Wonderwall</string>
+    <string name="edit">Edit Akun</string>
+    <string name="ubah">Buat Cerita</string>
+    <string name="email">wonderwall@gmail.com</string>
+    <string name="tentang">Apa itu Wonderwall?</string>
+    <string name="kontak">Hubungi kami!</string>
+    <string name="bantuan1">Wonderwall adalah sebuah aplikasi yang dapat membantu kamu posting apapun tanpa takut ketahuan! Cocok buat kamu yang ingin menyampaikan kritik, saran, maupun kreatifitasmu dalam hal menulis namun masih takut untuk tampil di hadapan publik</string>
+    <string name="open"></string>
+    <string name="close"></string>
+    <!-- Strings related to login -->
+
+    <string name="beranda2">Beranda!</string>
+    <string name="exit">Keluar</string>
+    <string name="profile">Profile</string>
+    <string name="prod">Lets Be Productive!</string>
+    <string name="github">Github</string>
+    <string name="twt">Twitter</string>
+    <string name="andro">Belajar Android</string>
+    <string name="web">Belajar Website</string>
+    <string name="ele">E-learning</string>
+    <string name="sim">Simkuliah</string>
+
+    <string name="tulis2">mulai mengetik</string>
+    <string name="username2">Username baru</string>
+    <string name="medsos">Media Sosial</string>
+    <string name="login_disinii">Login disinii!</string>
+</resources>
+

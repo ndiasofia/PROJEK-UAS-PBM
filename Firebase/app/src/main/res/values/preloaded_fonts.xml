@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/antic</item>
+        <item>@font/buenard</item>
+        <item>@font/caladea_bold</item>
+        <item>@font/calistoga</item>
+        <item>@font/montserrat_alternates</item>
+        <item>@font/poppins_medium</item>
+    </array>
+</resources>
